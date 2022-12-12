@@ -8,6 +8,6 @@ Adaptive and passionate frontend developer always learning new things, trying tp
 - 🌱 I’m currently learning typescript, tdd, react, firebase, and everything frontend related
 - 👯 I’m looking for employment as a frontend developer
 - 💬 Ask me about all things frontend !
-- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/stuartbolderson/) | [Personal Website](https://portfolio-c7ce5.web.app/)
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/stuartbolderson/) 
 
 
